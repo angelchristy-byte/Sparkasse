@@ -1,0 +1,6 @@
+{
+  "name": "Remix Remix S-Kompass — Verstehen. Erledigen. Profitieren.",
+  "description": "Klickbarer Konzept-Prototyp der Sparkasse Banking-App S-Kompass (HTW Berlin × Sparkasse, AI Promptathon).",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
